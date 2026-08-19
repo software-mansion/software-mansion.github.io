@@ -8,6 +8,9 @@ Disallow: /react-native-reanimated/docs/1.x/
 Disallow: /react-native-reanimated/docs/2.x/
 Disallow: /react-native-reanimated/docs/3.x/
 
+# Not launched yet.
+Disallow: /react-native-screens-docs/
+
 User-agent: Amazonbot
 Disallow: /
 
