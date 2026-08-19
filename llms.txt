@@ -1,0 +1,53 @@
+# Software Mansion open source documentation
+
+> Documentation for the libraries and tools built and maintained by Software Mansion (https://swmansion.com).
+
+Each project below is a separate documentation site served from this domain. Where a project publishes its own llms.txt, it sits at <project path>/llms.txt.
+
+## React Native
+
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/): A powerful animation library that makes it easy to create smooth animations and interactions that run in the UI thread.
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/): Declarative API exposing platform native touch and gesture system to React Native.
+- [React Native Screens](https://docs.swmansion.com/react-native-screens/): Native Navigation primitives for your React Native app.
+- [React Native Audio API](https://docs.swmansion.com/react-native-audio-api/): React Native Audio API is a library that lets you build powerful audio features in your app – from real-time effects and visualization to multi-track playback
+- [React Native Enriched HTML](https://docs.swmansion.com/react-native-enriched-html/)
+- [React Native WHIP/WHEP](https://docs.swmansion.com/react-native-whip-whep/): Documentation for react-native-whip-whep
+- [npx setup-ci](https://docs.swmansion.com/setup-ci/): Quickly bootstrap CI for your React Native app
+
+## Cairo and Starknet
+
+- [Scarb](https://docs.swmansion.com/scarb/): Scarb is a build toolchain and package manager for Cairo and Starknet ecosystems.
+- [Cairo Language Server](https://docs.swmansion.com/cairols/): Cairo Language Server is an implementation of Language Server Protocol for the Cairo language.
+- [Cairo lint](https://docs.swmansion.com/cairo-lint/): Cairo lint is a static code analyzer tool for Cairo language.
+- [Cairo Debugger](https://docs.swmansion.com/cairo-debugger/): Cairo Debugger is an implementation of Debug Adapter Protocol for the Cairo language.
+- [Protostar](https://docs.swmansion.com/protostar/): Protostar manages your dependencies, compiles your project, and runs test.
+- [starknet-jvm](https://docs.swmansion.com/starknet-jvm/)
+- [starknet.swift](https://docs.swmansion.com/starknet.swift/)
+
+## Elixir
+
+- [LiveDebugger](https://docs.swmansion.com/live-debugger/): A must-have tool for Elixir developers. See your LiveComponents tree, inspect assigns, trace and filter callback executions, and more.
+
+## Kotlin Multiplatform
+
+- [KMP Maps](https://docs.swmansion.com/kmp-maps/)
+- [KMP Sharing](https://docs.swmansion.com/kmp-sharing/)
+
+## Apple platforms
+
+- [Pulsar](https://docs.swmansion.com/pulsar/): Pulsar is an open-source library that offers ready-to-use haptic presets. With it, you can add haptics to your Kotlin, Swift, or React Native app in minutes.
+
+## Web and GPU
+
+- [TypeGPU](https://docs.swmansion.com/TypeGPU/)
+- [byegl](https://docs.swmansion.com/byegl/)
+- [tsover](https://docs.swmansion.com/tsover/)
+
+## Other
+
+- [Ma’at](https://docs.swmansion.com/maat/)
+
+## About
+
+- [Software Mansion](https://swmansion.com): the company behind these projects
+- [Site map for swmansion.com](https://swmansion.com/llms.txt)

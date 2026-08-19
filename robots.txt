@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+# Superseded Reanimated versions. These rules already existed at
+# /react-native-reanimated/robots.txt, where no crawler reads them.
+Disallow: /react-native-reanimated/docs/1.x/
+Disallow: /react-native-reanimated/docs/2.x/
+Disallow: /react-native-reanimated/docs/3.x/
+
+# Not launched yet.
+Disallow: /react-native-screens-docs/
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://docs.swmansion.com/cairo-debugger/sitemap.xml
+Sitemap: https://docs.swmansion.com/cairo-lint/sitemap.xml
+Sitemap: https://docs.swmansion.com/cairols/sitemap.xml
+Sitemap: https://docs.swmansion.com/protostar/sitemap.xml
+Sitemap: https://docs.swmansion.com/pulsar/sitemap-index.xml
+Sitemap: https://docs.swmansion.com/react-native-audio-api/sitemap.xml
+Sitemap: https://docs.swmansion.com/react-native-enriched-html/sitemap.xml
+Sitemap: https://docs.swmansion.com/react-native-gesture-handler/sitemap.xml
+Sitemap: https://docs.swmansion.com/react-native-reanimated/sitemap.xml
+Sitemap: https://docs.swmansion.com/react-native-screens/sitemap.xml
+Sitemap: https://docs.swmansion.com/scarb/sitemap.xml
+Sitemap: https://docs.swmansion.com/setup-ci/sitemap.xml
