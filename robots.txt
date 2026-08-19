@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Content-Signal: search=yes, ai-input=yes, ai-train=no
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 # Superseded Reanimated versions. These rules already existed at
 # /react-native-reanimated/robots.txt, where no crawler reads them.
